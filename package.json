@@ -1,0 +1,12 @@
+{
+      "name": "6332b17a1520efafacebf294a608e7ff48f0f95bdfc1a48c0e02cf6ccbd1",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "HUAY ถึง โบนัสจัดเต็ม ลิงค์ ดู ผล จีน HTTP WWW SZSE CN ENGLISH/HOME ",
+      "repository": "https://github.com/atombot2022/6332b17a1520efafacebf294a608e7ff48f0f95bdfc1a48c0e02cf6ccbd1",
+      "keywords": "ชุดเลข,ผลงานดี",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
